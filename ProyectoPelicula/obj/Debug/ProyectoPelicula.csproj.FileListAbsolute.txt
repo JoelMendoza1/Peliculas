@@ -1,0 +1,13 @@
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\bin\Debug\ProyectoPelicula.exe.config
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\bin\Debug\ProyectoPelicula.exe
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\bin\Debug\ProyectoPelicula.pdb
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.csprojAssemblyReference.cache
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.Properties.Resources.resources
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.csproj.GenerateResource.cache
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.exe
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.pdb
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.Form1.resources
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.Form2.resources
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.Form3.resources
+C:\Users\USER\Documents\U\Cuarto Semestre\Base de Datos II\b2\ProyectoPelicula\ProyectoPelicula\obj\Debug\ProyectoPelicula.Form4.resources
